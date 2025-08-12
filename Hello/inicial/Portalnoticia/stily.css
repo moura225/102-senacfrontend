@@ -6,8 +6,20 @@
 
 }
 
+body > header{
+background-color:green ;
+padding:16px 8;
+}
+
 header li{
     display: inline;
+}
+
+
+header .container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .container{
     width: 1264px;
@@ -32,3 +44,19 @@ header li{
 .articles article{
     width: 30%;
 }
+
+section{
+    padding: 16px 8;
+}
+
+section h2,
+.articles article{
+    margin-bottom: 16px;
+}
+
+.articles article h3{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+
