@@ -75,5 +75,37 @@ section h2,
     text-decoration: underline;
     background-color: blue;
 }
+#sports{
+    background-color: green;
+}
+#sports .articles article a{
+    background-color: #009432;
+}
 
+#economy{
+    background-color: #f8f69f;
+}
 
+#economy .articles article a{
+    background-color: #fff91a;
+}
+
+#entreterimento{
+    background-color: #1c68d3;
+}
+
+#entreterimento .articles article a{
+    background-color: #587fb5;
+}
+
+#tecnologia{
+    background-color:rgb(126, 120, 120);
+}
+
+#tecnologia .articles article a {
+    background-color: #2f3640;
+}
+
+footer{
+    background-color: #2f3640;
+}
