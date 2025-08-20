@@ -76,4 +76,33 @@ section h2,
     background-color: blue;
 }
 
+#sports{
+    background-color: green;
+}
+#sports .articles article a{
+    background-color: rgb(15, 255, 15);
+}
+
+#economy{
+    background-color: rgb(88, 88, 22);
+}
+
+#economy .articles article a{
+    background-color: rgb(75, 75, 6);
+}
+
+#tecnologia{
+    background-color: rgb(66, 59, 154);
+}
+#tecnologia .articles article a{
+background-color:rgb(9, 9, 18);
+}
+
+#entreterimento{
+    background-color: rgb(159, 154, 154);
+}
+#entreterimento .articles article a{
+background-color: #2f3640;
+}
+
 
